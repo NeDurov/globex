@@ -1,0 +1,25 @@
+.ModalName {
+	font: caption;
+	font-size: 18pt;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+table {
+	border-spacing: 0px 10px;
+}
+
+b {
+	float: left;
+}
+
+td {
+	max-width: 200px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.ModalDescription {
+	margin-top: 20px;
+}
